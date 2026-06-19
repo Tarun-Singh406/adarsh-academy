@@ -5,7 +5,7 @@ const faqs = [
   { q: "What are the batch timings?", a: "Weekday batches run from 4:00 PM to 8:00 PM after school hours. Weekend intensive batches run from 9:00 AM to 5:00 PM. Class 12 and dropper batches have full-day schedules with structured breaks." },
   { q: "What is the fee structure?", a: "Fees vary by programme — Class 11/12 from ₹85,000/year, JEE/NEET integrated programmes from ₹1,25,000/year. We offer scholarships up to 100% on the basis of the entrance test, plus easy installment options. Detailed fee structure shared during counselling." },
   { q: "How does the test series work?", a: "Every student writes a chapter test weekly, a cumulative test fortnightly and an All India mock monthly. Detailed performance analytics, rank predictors and personalised improvement plans are shared with both student and parent." },
-  { q: "Tell me about the scholarship exam.", a: "Our Elite Scholarship Test is held quarterly. Top scorers receive scholarships ranging from 25% to 100% on tuition fees. Registration is free and the test is conducted both online and at our centre." },
+  { q: "Tell me about the scholarship exam.", a: "Our Scholarship Test is held quarterly. Top scorers receive scholarships ranging from 25% to 100% on tuition fees. Registration is free and the test is conducted both online and at our centre." },
   { q: "Are doubt-clearing classes included?", a: "Yes. Daily doubt sessions are conducted after regular classes by subject faculty. In addition, every student has 24x7 access to our doubt portal where queries are resolved within 12 hours by senior mentors." },
 ];
 

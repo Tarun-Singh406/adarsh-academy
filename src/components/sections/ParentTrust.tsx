@@ -1,11 +1,11 @@
 import { Quote, Star } from "lucide-react";
 
 const reviews = [
-  { name: "Mrs. Sunita Rao", relation: "Parent of NEET 2025 student", initials: "SR", quote: "We compared 6 institutes before choosing Elite Scholars. The mentor called us every two weeks with honest updates — that transparency is rare. My daughter cleared NEET in her first attempt." },
+  { name: "Mrs. Sunita Rao", relation: "Parent of NEET 2025 student", initials: "SR", quote: "We compared 6 institutes before choosing Amrawati Tutorials. The mentor called us every two weeks with honest updates — that transparency is rare. My daughter cleared NEET in her first attempt." },
   { name: "Mr. Aniruddh Mehta", relation: "Parent of JEE 2024 topper", initials: "AM", quote: "What I value most is discipline. Attendance, tests, doubts — everything was tracked. My son secured AIR 89 in JEE Advanced. Worth every rupee." },
   { name: "Aarav Sharma", relation: "AIR 12, JEE Advanced 2025", initials: "AS", quote: "The faculty doesn't just teach — they make you think like a problem-solver. The test series is brutally close to the real paper. That's what made the difference." },
   { name: "Mrs. Kavita Iyer", relation: "Parent of Class 12 student", initials: "KI", quote: "The classrooms are calm, the batches are small, and the teachers actually know my child by name. As a parent, that peace of mind is everything." },
-  { name: "Priya Mehta", relation: "AIR 47, NEET UG 2025", initials: "PM", quote: "I came in average. I left with a rank I never imagined. The mentorship at Elite Scholars genuinely changes lives — not a marketing line, a fact." },
+  { name: "Priya Mehta", relation: "AIR 47, NEET UG 2025", initials: "PM", quote: "I came in average. I left with a rank I never imagined. The mentorship at Amrawati Tutorials genuinely changes lives — not a marketing line, a fact." },
   { name: "Mr. Rajesh Khanna", relation: "Parent of two enrolled siblings", initials: "RK", quote: "Both my children study here. The institute treats parents as partners, not customers. We always know where our kids stand." },
 ];
 

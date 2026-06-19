@@ -16,9 +16,9 @@ import { EnquiryForm } from "@/components/sections/EnquiryForm";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Elite Scholars — Premium Coaching for JEE, NEET & Boards" },
+      { title: "Amrawati Tutorials — Premium Coaching for JEE, NEET & Boards" },
       { name: "description", content: "Premium coaching institute for JEE, NEET, Class 11 & 12. 25+ years of trust, 500+ All India Ranks, senior IITian & doctor mentors. Admissions Open 2026." },
-      { property: "og:title", content: "Elite Scholars — Building Future Doctors & Engineers" },
+      { property: "og:title", content: "Amrawati Tutorials — Building Future Doctors & Engineers" },
       { property: "og:description", content: "Premium coaching for JEE, NEET and Boards. Small batches, senior mentors, proven results." },
       { property: "og:url", content: "/" },
     ],

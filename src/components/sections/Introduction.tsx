@@ -19,12 +19,12 @@ export function Introduction() {
       <div className="relative mx-auto max-w-7xl px-6">
         <div className="grid gap-16 lg:grid-cols-2 lg:items-center">
           <div className="animate-fade-up">
-            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-primary">About Elite Scholars</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-primary">About Amrawati Tutorials</p>
             <h2 className="mt-4 font-display text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
               An institute built on <span className="text-gradient-gold">results</span>, not promises.
             </h2>
             <p className="mt-6 text-base leading-relaxed text-foreground/80">
-              For over 25 years, Elite Scholars has been India's quiet powerhouse for JEE and NEET preparation.
+              For over 25 years, Amrawati Tutorials has been India's quiet powerhouse for JEE and NEET preparation.
               We measure ourselves by one number — the All India Ranks our students earn each year. Every batch
               is small, every mentor is senior, every test is designed to build exam temperament.
             </p>

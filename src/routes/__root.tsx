@@ -80,7 +80,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { title: "Adrash academy" },
       { name: "description", content: "India's most trusted premium coaching institute. 25+ years, 500+ AIRs, senior IITian & doctor mentors. Admissions Open 2026." },
-      { name: "author", content: "Elite Scholars" },
+      { name: "author", content: "Amrawati Tutorials" },
       { property: "og:title", content: "Adrash academy" },
       { property: "og:description", content: "India's most trusted premium coaching institute. 25+ years, 500+ AIRs, senior IITian & doctor mentors. Admissions Open 2026." },
       { property: "og:type", content: "website" },

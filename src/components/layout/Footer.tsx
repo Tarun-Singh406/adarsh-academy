@@ -10,7 +10,7 @@ export function Footer() {
               <GraduationCap className="h-6 w-6 text-primary-foreground" />
             </div>
             <div className="leading-tight">
-              <div className="font-display text-lg font-bold">Elite Scholars</div>
+              <div className="font-display text-lg font-bold">Amrawati Tutorials</div>
               <div className="text-[10px] uppercase tracking-[0.2em] text-primary">Coaching Institute</div>
             </div>
           </div>
@@ -64,7 +64,7 @@ export function Footer() {
 
       <div className="border-t border-border/50">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-6 py-5 text-xs text-muted-foreground md:flex-row">
-          <p>© {new Date().getFullYear()} Elite Scholars Coaching Institute. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Amrawati Tutorials Coaching Institute. All rights reserved.</p>
           <p>Privacy Policy · Terms of Service</p>
         </div>
       </div>
