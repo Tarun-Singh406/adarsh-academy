@@ -53,7 +53,7 @@ export function Header() {
             <GraduationCap className="h-6 w-6 text-primary-foreground" />
           </div>
           <div className="leading-tight">
-            <div className="font-display text-lg font-bold text-foreground">Elite Scholars</div>
+            <div className="font-display text-lg font-bold text-foreground">Amrawati Tutorials</div>
             <div className="text-[10px] uppercase tracking-[0.2em] text-primary">Coaching Institute</div>
           </div>
         </Link>

@@ -12,7 +12,7 @@ export function WhyChooseUs() {
     <section className="bg-[color:var(--surface-2)] py-24">
       <div className="mx-auto max-w-7xl px-6">
         <div className="mx-auto max-w-2xl text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.25em] text-primary">Why Elite Scholars</p>
+          <p className="text-xs font-semibold uppercase tracking-[0.25em] text-primary">Why Amrawati Tutorials</p>
           <h2 className="mt-3 font-display text-3xl font-bold sm:text-4xl lg:text-5xl">
             Four pillars of our <span className="text-gradient-gold">success</span>
           </h2>
